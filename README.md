@@ -19,5 +19,4 @@
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kenta15&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Kenta15" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kenta15&show_icons=true&locale=en&theme=tokyonight" alt="Kenta15" /></p>
