@@ -18,5 +18,5 @@
 <a href="https://www.threejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="three.js" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a></p>
 
-<p><img width="35%" height="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kenta15&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Kenta15" /></p>
-<p>&nbsp;<img width="42%" height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=Kenta15&show_icons=true&locale=en&theme=tokyonight" alt="Kenta15" /></p>
+<p><img width="35%" height="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kenta15&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Kenta15" /></p>
+<p>&nbsp;<img width="42%" height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=Kenta15&show_icons=true&locale=en&theme=dark" alt="Kenta15" /></p>
