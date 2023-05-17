@@ -1,4 +1,4 @@
-<h2 align="center">Hi :wave:, I am Kenta Tanaka</h2>
+<h2 align="center">Hi :wave:, I am Kenta</h2>
 
 ## :e-mail: Contact:
 <a href="https://www.linkedin.com/in/kenta05/">
